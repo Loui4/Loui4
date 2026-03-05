@@ -34,6 +34,16 @@ My focus areas include:
 
 ---
 
+## 🏆 Certifications
+
+🎓 **Cloud DevOps Engineer Nanodegree — Udacity**  
+https://www.udacity.com/certificate/e/54382890-6f84-11ed-a0d6-2fa22d33c5b9
+
+☁️ **Cloud Developer Nanodegree — Udacity**  
+https://www.udacity.com/certificate/e/195527ae-07a7-11ed-bd2f-4b2633cc1207
+
+---
+
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -102,15 +112,6 @@ Built chatbot flows using **Botpress + Node.js**, integrating with **DHIS2 One H
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loui4&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-## 🧠 Currently Exploring
-
-• Advanced system integration  
-• Cloud-native architecture  
-• High-performance APIs with NestJS  
-• DevOps automation and infrastructure as code  
 
 ---
 
