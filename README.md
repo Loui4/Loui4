@@ -80,8 +80,11 @@ Built chatbot flows using **Botpress + Node.js**, integrating with **DHIS2 One H
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Loui4&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loui4&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Loui4&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loui4&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -89,7 +92,7 @@ Built chatbot flows using **Botpress + Node.js**, integrating with **DHIS2 One H
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Loui4&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Loui4&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -97,7 +100,7 @@ Built chatbot flows using **Botpress + Node.js**, integrating with **DHIS2 One H
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Loui4&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Loui4&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
